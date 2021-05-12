@@ -1,0 +1,24 @@
+{
+  "name": "npm-lab",
+  "version": "1.0.0",
+  "description": "## Overview",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha -R mocha-multi --reporter-options spec=-,json=.results.json"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vanessa720/npm-lab.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/vanessa720/npm-lab/issues"
+  },
+  "homepage": "https://github.com/vanessa720/npm-lab#readme",
+  "dependencies": {
+    "moment": "^2.29.1"
+  },
+  "devDependencies": {},
+  "keywords": []
+}
